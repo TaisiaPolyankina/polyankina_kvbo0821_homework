@@ -1,0 +1,8 @@
+package polyankina_kvbo0821.prac6.hw6_1;
+
+public interface Movable {
+    public void moveUp();
+    public void moveDown();
+    public void moveLeft();
+    public void moveRight();
+}
